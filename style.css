@@ -1,0 +1,45 @@
+ html{
+    background-color: #FFA1F5;    
+} 
+.heading {
+    color: #451952;
+    text-align: center;
+}
+
+h1 {
+    margin: 20px;
+    font-size: 5rem;
+
+}
+
+h2 {
+    margin-top: 0%;
+}
+
+.start>button {
+    background-color: #451952;
+    font-size: xx-large;
+    margin: 40px;
+}
+
+.start {
+    display: flex;
+    justify-content: center;
+}
+
+.game {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.game img {
+    height: 300px;
+    width: 300px;
+}
+
+
+
+
+
+
+
